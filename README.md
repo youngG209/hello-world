@@ -47,7 +47,7 @@ git 및 github 공부용(Source Tree 이용)
     - 만들어진 폴더를 열고 에디터 등을 이용해 hello.html을 만듬. 저장 위치는 Documents/hello-world/
     - 파일 명 : hello.html
     - 파일 내용 
-  <%--              <!DOCTYPE html>
+                <!-- <!DOCTYPE html>
                 <html>
                 <body>
                 <h1>Hello JS</h1>
@@ -55,7 +55,7 @@ git 및 github 공부용(Source Tree 이용)
                 console.log("Hello world!");
                 </script>
                 </body>
-                </html>                       --%>
+                </html>                        -->
     - 에디터로 파일을 만들고 저장 후 소스트리로 돌아가 보면 상태가 변경되어 있음.
     - 해당 파일을 스테이지에 올려야 커밋할 수 있음. 모두 스테이지에 올리기 버튼을 클릭.
 
